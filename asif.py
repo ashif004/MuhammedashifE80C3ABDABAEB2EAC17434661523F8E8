@@ -1,1 +1,1 @@
-asif=int(input("enter a number"))
+asif=int(input("enter a number"))kasif=int(input("enter a num
